@@ -1,14 +1,16 @@
 ##👋 Hi there, I'm Dikshant
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DikshantV)](https://git.io/streak-stats)
 
 I'm a Machine Learning & AI Engineer with over 3 years of hands-on experience developing and deploying intelligent systems for real-world applications. My expertise spans Natural Language Processing (NLP), Computer Vision (CV), and Reinforcement Learning. I am passionate about leveraging cutting-edge technologies to solve complex challenges and drive innovation.
 
 
 🚀 My Skills
--Machine Learning Frameworks: TensorFlow, PyTorch, Scikit-learn, Keras, Hugging Face
--Natural Language Processing (NLP): Text classification, Named Entity Recognition, Transformer models (BERT, GPT), Text generation
--Computer Vision (CV): Object detection, Image classification, Image segmentation, OpenCV, YOLO, Faster-RCNN
--Reinforcement Learning: Q-Learning, Deep Q Networks (DQN), Proximal Policy Optimization (PPO)
+
+* Machine Learning Frameworks: TensorFlow, PyTorch, Scikit-learn, Keras, Hugging Face
+* Natural Language Processing (NLP): Text classification, Named Entity Recognition, Transformer models (BERT, GPT), Text generation
+* Computer Vision (CV): Object detection, Image classification, Image segmentation, OpenCV, YOLO, Faster-RCNN
+* Reinforcement Learning: Q-Learning, Deep Q Networks (DQN), Proximal Policy Optimization (PPO)
 -Backend Engineering: REST APIs, Microservices architecture, Cloud computing (AWS, GCP)
 -Programming Languages: Python, Golang, JavaScript, Scala
 -DevOps & Tools: Docker, Kubernetes, CI/CD pipelines
