@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DikshantV)](https://git.io/streak-stats)
 
-I'm a Machine Learning & AI Engineer with over 3 years of hands-on experience developing and deploying intelligent systems for real-world applications. My expertise spans Natural Language Processing (NLP), Computer Vision (CV), and Reinforcement Learning. I am passionate about leveraging cutting-edge technologies to solve complex challenges and drive innovation.
+I'm a Machine Learning & AI Engineer with over 3 years of hands-on experience developing and deploying intelligent systems for real-world applications. My expertise spans Natural Language Processing (NLP), Computer Vision (CV), and Reinforcement Learning. I am passionate about leveraging cutting-edge technologies to solve complex challenges and drive innovation.\
 
 
 
@@ -38,4 +38,5 @@ I'm a Machine Learning & AI Engineer with over 3 years of hands-on experience de
 
 🌱 **Let's Connect**
 * LinkedIn: https://www.linkedin.com/in/dikshant-vashistha-bb632112a/
-* Email: https://wwww.dikshantvashistha.com
+* Website: https://wwww.dikshantvashistha.com
+* Email: dikshant.vashishtha1625@gmail.com
